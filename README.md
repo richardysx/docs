@@ -2,7 +2,7 @@
 
 Welcome to the documentation! Please select a guide from the sidebar.
 
-这里主要记录了工作中实际遇到的一些问题及解决方案。
+This documentation primarily records practical problems encountered at work and their solutions.
 
 * [AmneziaVPN on AWS — Complete Setup Guide](AmneziaVPN%20on%20AWS%20—%20Complete%20Setup%20Guide.md)
 * [ETL_Auto_DQ](ETL_Auto_DQ.md)
