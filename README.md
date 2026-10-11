@@ -7,3 +7,4 @@ This documentation primarily records practical problems encountered at work and 
 * [AmneziaVPN on AWS — Complete Setup Guide](AmneziaVPN%20on%20AWS%20—%20Complete%20Setup%20Guide.md)
 * [Graceful Shutdown K8s ETL](Graceful_Shutdown_K8s_ETL.md)
 * [Comprehensive Auto DQ Guide](Comprehensive_Auto_DQ_Guide.md)
+* [How MapReduce Works](How_MapReduce_Works.md)
