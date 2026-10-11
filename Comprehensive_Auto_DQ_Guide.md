@@ -1,5 +1,7 @@
 # Comprehensive Auto DQ Guide
 
+> **📢 This article has moved.** An updated and expanded version is now at **[pipeprompt.com/blog/automated-data-quality-framework](https://pipeprompt.com/blog/automated-data-quality-framework/)**. This copy is no longer maintained.
+
 > **Note:** All sensitive information (including company names, proprietary metrics, etc.) has been removed from this document. This is a purely technical guide detailing the algorithms, logic, and architecture of the system.
 
 ## 1. Overview

@@ -1,5 +1,7 @@
 # Graceful Shutdown in Kubernetes: Preventing Data Loss During Pod Scale-Down on AWS
 
+> **📢 This article has moved.** An updated and expanded version is now at **[pipeprompt.com/blog/graceful-shutdown-kubernetes-etl-workers](https://pipeprompt.com/blog/graceful-shutdown-kubernetes-etl-workers/)**. This copy is no longer maintained.
+
 ## Overview
 When running a large-scale ETL (Extract, Transform, Load) system on AWS EKS with hundreds or thousands of pods, autoscaling (HPA/KEDA and Cluster Autoscaler) is essential for cost optimization. However, when the system scales down due to dropping CPU or memory utilization, Kubernetes will terminate existing pods to reclaim resources.
 
