@@ -8,3 +8,4 @@ This documentation primarily records practical problems encountered at work and 
 * [Graceful Shutdown K8s ETL](Graceful_Shutdown_K8s_ETL.md)
 * [Comprehensive Auto DQ Guide](Comprehensive_Auto_DQ_Guide.md)
 * [How MapReduce Works](How_MapReduce_Works.md)
+* [How Spark Works](How_Spark_Works.md)
