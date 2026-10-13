@@ -4,3 +4,4 @@
 - [Comprehensive Auto DQ Guide](/Comprehensive_Auto_DQ_Guide.md)
 - [How MapReduce Works](/How_MapReduce_Works.md)
 - [How Spark Works](/How_Spark_Works.md)
+- [Migrating Spark Pipelines off Databricks](/Databricks_Pipeline_Migration.md)
